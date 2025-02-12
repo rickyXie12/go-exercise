@@ -1,0 +1,3 @@
+[name: Firmansyaha, score: 0],
+[name: ricky, score: 100],
+[name: test, score: 25]
